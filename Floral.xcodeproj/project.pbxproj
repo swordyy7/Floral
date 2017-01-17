@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					03AC40EC1E2CCEAF0035FF3C = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 7RE9MC2626;
 						ProvisioningStyle = Automatic;
 					};
 					03AC41001E2CCEB00035FF3C = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7RE9MC2626;
 				INFOPLIST_FILE = Floral/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fortal.Floral;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7RE9MC2626;
 				INFOPLIST_FILE = Floral/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fortal.Floral;
